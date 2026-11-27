@@ -1,0 +1,2590 @@
+{
+  "1": {
+    "en": "1",
+    "de": "1"
+  },
+  "2": {
+    "en": "2",
+    "de": "2"
+  },
+  "300": {
+    "en": "300",
+    "de": "300"
+  },
+  "1500": {
+    "en": "1500",
+    "de": "1500"
+  },
+  "3600": {
+    "en": "3600",
+    "de": "3600"
+  },
+  "10482": {
+    "en": "10482",
+    "de": "10482"
+  },
+  "Genel": {
+    "en": "General",
+    "de": "Allgemein"
+  },
+  "Genel bakış": {
+    "en": "Overview",
+    "de": "Übersicht"
+  },
+  "Erişim": {
+    "en": "Access",
+    "de": "Zugang"
+  },
+  "Ağ ve DNS": {
+    "en": "Network and DNS",
+    "de": "Netzwerk und DNS"
+  },
+  "Yedekler": {
+    "en": "Backups",
+    "de": "Sicherungen"
+  },
+  "İzleme": {
+    "en": "Monitoring",
+    "de": "Überwachung"
+  },
+  "Geçmiş": {
+    "en": "History",
+    "de": "Verlauf"
+  },
+  "Format": {
+    "en": "Reinstall",
+    "de": "Neuinstallation"
+  },
+  "Başlat": {
+    "en": "Start",
+    "de": "Starten"
+  },
+  "Durdur": {
+    "en": "Stop",
+    "de": "Stoppen"
+  },
+  "Güvenli kapat": {
+    "en": "Shut down safely",
+    "de": "Sicher herunterfahren"
+  },
+  "Yeniden başlat": {
+    "en": "Restart",
+    "de": "Neustarten"
+  },
+  "Yeniden kur": {
+    "en": "Reinstall",
+    "de": "Neu installieren"
+  },
+  "Web konsolu": {
+    "en": "Web console",
+    "de": "Webkonsole"
+  },
+  "Parola / SSH": {
+    "en": "Password / SSH",
+    "de": "Passwort / SSH"
+  },
+  "IP uygula": {
+    "en": "Apply IP",
+    "de": "IP anwenden"
+  },
+  "Disk genişlet": {
+    "en": "Expand disk",
+    "de": "Laufwerk erweitern"
+  },
+  "Disk genişletme": {
+    "en": "Disk expansion",
+    "de": "Laufwerkerweiterung"
+  },
+  "Kaynak izleme": {
+    "en": "Resource monitoring",
+    "de": "Ressourcenüberwachung"
+  },
+  "Sunucu genel görünümü": {
+    "en": "Server overview",
+    "de": "Serverübersicht"
+  },
+  "Hızlı işlemler": {
+    "en": "Quick actions",
+    "de": "Schnellaktionen"
+  },
+  "Erişim bilgileri": {
+    "en": "Access details",
+    "de": "Zugangsdaten"
+  },
+  "Hizmet bilgileri": {
+    "en": "Service details",
+    "de": "Dienstdetails"
+  },
+  "Hizmet kimliği": {
+    "en": "Service ID",
+    "de": "Dienst-ID"
+  },
+  "Hizmet ID": {
+    "en": "Service ID",
+    "de": "Dienst-ID"
+  },
+  "Hizmet": {
+    "en": "Service",
+    "de": "Dienst"
+  },
+  "Hizmetlerim": {
+    "en": "My services",
+    "de": "Meine Dienste"
+  },
+  "Paket": {
+    "en": "Plan",
+    "de": "Tarif"
+  },
+  "Kullanıcı": {
+    "en": "Username",
+    "de": "Benutzername"
+  },
+  "Parola": {
+    "en": "Password",
+    "de": "Passwort"
+  },
+  "Sonraki ödeme": {
+    "en": "Next payment",
+    "de": "Nächste Zahlung"
+  },
+  "Aylık ücret": {
+    "en": "Monthly price",
+    "de": "Monatlicher Preis"
+  },
+  "Çalışma süresi": {
+    "en": "Uptime",
+    "de": "Betriebszeit"
+  },
+  "Çalışıyor": {
+    "en": "Running",
+    "de": "Läuft"
+  },
+  "Kapalı": {
+    "en": "Powered off",
+    "de": "Ausgeschaltet"
+  },
+  "Durduruldu": {
+    "en": "Stopped",
+    "de": "Gestoppt"
+  },
+  "Aktif": {
+    "en": "Active",
+    "de": "Aktiv"
+  },
+  "Etkin": {
+    "en": "Active",
+    "de": "Aktiv"
+  },
+  "Pasif": {
+    "en": "Inactive",
+    "de": "Inaktiv"
+  },
+  "Lisans": {
+    "en": "License",
+    "de": "Lizenz"
+  },
+  "Erişim ve parola": {
+    "en": "Access and password",
+    "de": "Zugang und Passwort"
+  },
+  "Mevcut giriş bilgileri": {
+    "en": "Current login details",
+    "de": "Aktuelle Zugangsdaten"
+  },
+  "Son değişiklik": {
+    "en": "Last change",
+    "de": "Letzte Änderung"
+  },
+  "Bağlantı": {
+    "en": "Connection",
+    "de": "Verbindung"
+  },
+  "Sunucu parolasını değiştir": {
+    "en": "Change server password",
+    "de": "Serverpasswort ändern"
+  },
+  "Yeni parola": {
+    "en": "New password",
+    "de": "Neues Passwort"
+  },
+  "Parolayı doğrula": {
+    "en": "Confirm password",
+    "de": "Passwort bestätigen"
+  },
+  "Parola üret": {
+    "en": "Generate password",
+    "de": "Passwort erzeugen"
+  },
+  "Güncelle": {
+    "en": "Update",
+    "de": "Aktualisieren"
+  },
+  "SSH anahtarı · Linux": {
+    "en": "SSH key · Linux",
+    "de": "SSH-Schlüssel · Linux"
+  },
+  "Etiket": {
+    "en": "Label",
+    "de": "Bezeichnung"
+  },
+  "Public key": {
+    "en": "Public key",
+    "de": "Öffentlicher Schlüssel"
+  },
+  "SSH public key": {
+    "en": "SSH public key",
+    "de": "Öffentlicher SSH-Schlüssel"
+  },
+  "Durum": {
+    "en": "Status",
+    "de": "Status"
+  },
+  "OS desteğine bağlı": {
+    "en": "Depends on OS support",
+    "de": "Abhängig von der Betriebssystemunterstützung"
+  },
+  "root / yetkili kullanıcı": {
+    "en": "root / authorized user",
+    "de": "root / berechtigter Benutzer"
+  },
+  "Konsol": {
+    "en": "Console",
+    "de": "Konsole"
+  },
+  "Bağlan": {
+    "en": "Connect",
+    "de": "Verbinden"
+  },
+  "Tam ekran": {
+    "en": "Fullscreen",
+    "de": "Vollbild"
+  },
+  "Yenile": {
+    "en": "Refresh",
+    "de": "Aktualisieren"
+  },
+  "Gönder": {
+    "en": "Send",
+    "de": "Senden"
+  },
+  "Konsola metin gönder": {
+    "en": "Send text to console",
+    "de": "Text an die Konsole senden"
+  },
+  "Metin": {
+    "en": "Text",
+    "de": "Text"
+  },
+  "Metni girin": {
+    "en": "Enter text",
+    "de": "Text eingeben"
+  },
+  "Klavye düzeni": {
+    "en": "Keyboard layout",
+    "de": "Tastaturbelegung"
+  },
+  "Konsol bağlantısı bekleniyor": {
+    "en": "Waiting for console connection",
+    "de": "Warten auf die Konsolenverbindung"
+  },
+  "İşletim sistemi kurulumu": {
+    "en": "Operating system installation",
+    "de": "Betriebssysteminstallation"
+  },
+  "Veri kaybı riski": {
+    "en": "Risk of data loss",
+    "de": "Gefahr von Datenverlust"
+  },
+  "Kurulum yapılandırması": {
+    "en": "Installation configuration",
+    "de": "Installationskonfiguration"
+  },
+  "OS ailesi": {
+    "en": "OS family",
+    "de": "Betriebssystemfamilie"
+  },
+  "İmaj / sürüm": {
+    "en": "Image / version",
+    "de": "Abbild / Version"
+  },
+  "Mimari": {
+    "en": "Architecture",
+    "de": "Architektur"
+  },
+  "Hedef disk": {
+    "en": "Target disk",
+    "de": "Ziellaufwerk"
+  },
+  "Ağ modu": {
+    "en": "Network mode",
+    "de": "Netzwerkmodus"
+  },
+  "Yedek kontrolü": {
+    "en": "Backup check",
+    "de": "Sicherungsprüfung"
+  },
+  "Onay metni": {
+    "en": "Confirmation text",
+    "de": "Bestätigungstext"
+  },
+  "Kurulumu başlat": {
+    "en": "Start installation",
+    "de": "Installation starten"
+  },
+  "Vazgeç": {
+    "en": "Cancel",
+    "de": "Abbrechen"
+  },
+  "Kurulum ilerleme durumu": {
+    "en": "Installation progress",
+    "de": "Installationsfortschritt"
+  },
+  "Kurulum adımları": {
+    "en": "Installation steps",
+    "de": "Installationsschritte"
+  },
+  "İstek alındı": {
+    "en": "Request received",
+    "de": "Anfrage empfangen"
+  },
+  "İstek doğrulandı": {
+    "en": "Request validated",
+    "de": "Anfrage geprüft"
+  },
+  "Kaynak ve disk hazırlandı": {
+    "en": "Resources and disk prepared",
+    "de": "Ressourcen und Laufwerk vorbereitet"
+  },
+  "İmaj uygulanıyor": {
+    "en": "Applying image",
+    "de": "Abbild wird angewendet"
+  },
+  "İmaj uygulanıyor · %65": {
+    "en": "Applying image · 65%",
+    "de": "Abbild wird angewendet · 65 %"
+  },
+  "Ağ ve erişim yapılandırması": {
+    "en": "Network and access configuration",
+    "de": "Netzwerk- und Zugangskonfiguration"
+  },
+  "Sağlık kontrolü": {
+    "en": "Health check",
+    "de": "Funktionsprüfung"
+  },
+  "Sağlık kontrolü bekliyor": {
+    "en": "Waiting for health check",
+    "de": "Warten auf die Funktionsprüfung"
+  },
+  "İlerleme": {
+    "en": "Progress",
+    "de": "Fortschritt"
+  },
+  "Başlangıç": {
+    "en": "Started",
+    "de": "Beginn"
+  },
+  "Başlatan": {
+    "en": "Started by",
+    "de": "Gestartet von"
+  },
+  "İmaj": {
+    "en": "Image",
+    "de": "Abbild"
+  },
+  "İşleniyor": {
+    "en": "Processing",
+    "de": "Wird verarbeitet"
+  },
+  "Başarılı": {
+    "en": "Successful",
+    "de": "Erfolgreich"
+  },
+  "Hata": {
+    "en": "Error",
+    "de": "Fehler"
+  },
+  "Hata kodu": {
+    "en": "Error code",
+    "de": "Fehlercode"
+  },
+  "IPv4 yönetimi": {
+    "en": "IPv4 management",
+    "de": "IPv4-Verwaltung"
+  },
+  "IPv6 yönetimi": {
+    "en": "IPv6 management",
+    "de": "IPv6-Verwaltung"
+  },
+  "IPv4 tahsisleri": {
+    "en": "IPv4 allocations",
+    "de": "IPv4-Zuweisungen"
+  },
+  "IPv6 tahsisleri": {
+    "en": "IPv6 allocations",
+    "de": "IPv6-Zuweisungen"
+  },
+  "IPv6 yönlendirme": {
+    "en": "IPv6 routing",
+    "de": "IPv6-Routing"
+  },
+  "Ağ yapılandırması": {
+    "en": "Network configuration",
+    "de": "Netzwerkkonfiguration"
+  },
+  "Ağ yapılandırma isteği": {
+    "en": "Network configuration request",
+    "de": "Anfrage zur Netzwerkkonfiguration"
+  },
+  "Arayüz": {
+    "en": "Interface",
+    "de": "Schnittstelle"
+  },
+  "Adres ailesi": {
+    "en": "Address family",
+    "de": "Adressfamilie"
+  },
+  "IP adresi": {
+    "en": "IP address",
+    "de": "IP-Adresse"
+  },
+  "IPv6 adresi": {
+    "en": "IPv6 address",
+    "de": "IPv6-Adresse"
+  },
+  "Birincil": {
+    "en": "Primary",
+    "de": "Primär"
+  },
+  "Ek IP": {
+    "en": "Additional IP",
+    "de": "Zusätzliche IP"
+  },
+  "Tahsis izni": {
+    "en": "Allocation permission",
+    "de": "Zuweisungsberechtigung"
+  },
+  "Uygulama modu": {
+    "en": "Application mode",
+    "de": "Anwendungsmodus"
+  },
+  "Ağ ayarlarını uygula": {
+    "en": "Apply network settings",
+    "de": "Netzwerkeinstellungen anwenden"
+  },
+  "API kapsamı": {
+    "en": "API scope",
+    "de": "API-Umfang"
+  },
+  "IP entegrasyonu": {
+    "en": "IP integration",
+    "de": "IP-Integration"
+  },
+  "rDNS kayıtları": {
+    "en": "rDNS records",
+    "de": "rDNS-Einträge"
+  },
+  "rDNS kaydı oluştur": {
+    "en": "Create rDNS record",
+    "de": "rDNS-Eintrag erstellen"
+  },
+  "rDNS kaydı düzenle": {
+    "en": "Edit rDNS record",
+    "de": "rDNS-Eintrag bearbeiten"
+  },
+  "PTR kayıtları": {
+    "en": "PTR records",
+    "de": "PTR-Einträge"
+  },
+  "PTR oluştur": {
+    "en": "Create PTR",
+    "de": "PTR erstellen"
+  },
+  "PTR yönet": {
+    "en": "Manage PTR",
+    "de": "PTR verwalten"
+  },
+  "PTR kaydı oluştur": {
+    "en": "Create PTR record",
+    "de": "PTR-Eintrag erstellen"
+  },
+  "PTR ayarları": {
+    "en": "PTR settings",
+    "de": "PTR-Einstellungen"
+  },
+  "PTR güncelle": {
+    "en": "Update PTR",
+    "de": "PTR aktualisieren"
+  },
+  "PTR hedefi": {
+    "en": "PTR target",
+    "de": "PTR-Ziel"
+  },
+  "PTR hedefi (FQDN)": {
+    "en": "PTR target (FQDN)",
+    "de": "PTR-Ziel (FQDN)"
+  },
+  "Kayıt türü": {
+    "en": "Record type",
+    "de": "Eintragstyp"
+  },
+  "TTL (saniye)": {
+    "en": "TTL (seconds)",
+    "de": "TTL (Sekunden)"
+  },
+  "Forward DNS kontrolü": {
+    "en": "Forward DNS check",
+    "de": "Forward-DNS-Prüfung"
+  },
+  "Reverse zone": {
+    "en": "Reverse zone",
+    "de": "Reverse-Zone"
+  },
+  "Mevcut hedef": {
+    "en": "Current target",
+    "de": "Aktuelles Ziel"
+  },
+  "Yeni hedef": {
+    "en": "New target",
+    "de": "Neues Ziel"
+  },
+  "Kaydet": {
+    "en": "Save",
+    "de": "Speichern"
+  },
+  "Sil": {
+    "en": "Delete",
+    "de": "Löschen"
+  },
+  "SİL": {
+    "en": "DELETE",
+    "de": "LÖSCHEN"
+  },
+  "Yetki kontrolü": {
+    "en": "Permission check",
+    "de": "Berechtigungsprüfung"
+  },
+  "Yetki doğrulandı": {
+    "en": "Permission verified",
+    "de": "Berechtigung bestätigt"
+  },
+  "DNS kayıtları": {
+    "en": "DNS records",
+    "de": "DNS-Einträge"
+  },
+  "DNS bölgesi": {
+    "en": "DNS zone",
+    "de": "DNS-Zone"
+  },
+  "DNS bölgeleri ve kayıtları": {
+    "en": "DNS zones and records",
+    "de": "DNS-Zonen und Einträge"
+  },
+  "DNS kayıt ayarları": {
+    "en": "DNS record settings",
+    "de": "DNS-Eintragseinstellungen"
+  },
+  "DNS kaydı oluştur": {
+    "en": "Create DNS record",
+    "de": "DNS-Eintrag erstellen"
+  },
+  "DNS kaydı düzenle": {
+    "en": "Edit DNS record",
+    "de": "DNS-Eintrag bearbeiten"
+  },
+  "DNS kaydını sil": {
+    "en": "Delete DNS record",
+    "de": "DNS-Eintrag löschen"
+  },
+  "Sağlayıcı yetkisi": {
+    "en": "Provider permission",
+    "de": "Anbieterberechtigung"
+  },
+  "Yetkili bölge": {
+    "en": "Authorized zone",
+    "de": "Berechtigte Zone"
+  },
+  "Kayıt adı": {
+    "en": "Record name",
+    "de": "Eintragsname"
+  },
+  "Hedef / değer": {
+    "en": "Target / value",
+    "de": "Ziel / Wert"
+  },
+  "MX / SRV öncelik": {
+    "en": "MX / SRV priority",
+    "de": "MX-/SRV-Priorität"
+  },
+  "SRV ağırlık / port": {
+    "en": "SRV weight / port",
+    "de": "SRV-Gewichtung / Port"
+  },
+  "CAA flag / tag": {
+    "en": "CAA flag / tag",
+    "de": "CAA-Flag / Tag"
+  },
+  "Mevcut DNS kaydı": {
+    "en": "Current DNS record",
+    "de": "Aktueller DNS-Eintrag"
+  },
+  "Mevcut değer": {
+    "en": "Current value",
+    "de": "Aktueller Wert"
+  },
+  "Yeni değer": {
+    "en": "New value",
+    "de": "Neuer Wert"
+  },
+  "Öncelik / port": {
+    "en": "Priority / port",
+    "de": "Priorität / Port"
+  },
+  "Bölge": {
+    "en": "Zone",
+    "de": "Zone"
+  },
+  "Değer": {
+    "en": "Value",
+    "de": "Wert"
+  },
+  "Kaydı oluştur": {
+    "en": "Create record",
+    "de": "Eintrag erstellen"
+  },
+  "Yedek ve snapshot": {
+    "en": "Backups and snapshots",
+    "de": "Sicherungen und Snapshots"
+  },
+  "Yedek / snapshot oluştur": {
+    "en": "Create backup / snapshot",
+    "de": "Sicherung / Snapshot erstellen"
+  },
+  "Yedek / snapshot sil": {
+    "en": "Delete backup / snapshot",
+    "de": "Sicherung / Snapshot löschen"
+  },
+  "Yeni yedek": {
+    "en": "New backup",
+    "de": "Neue Sicherung"
+  },
+  "Depolama ve kota": {
+    "en": "Storage and quota",
+    "de": "Speicher und Kontingent"
+  },
+  "İmaj yedeği": {
+    "en": "Image backup",
+    "de": "Abbildsicherung"
+  },
+  "Kullanım": {
+    "en": "Usage",
+    "de": "Nutzung"
+  },
+  "kullanım": {
+    "en": "usage",
+    "de": "Nutzung"
+  },
+  "Son yedek": {
+    "en": "Last backup",
+    "de": "Letzte Sicherung"
+  },
+  "Geri dönüş noktaları": {
+    "en": "Recovery points",
+    "de": "Wiederherstellungspunkte"
+  },
+  "Geri dönüş noktası": {
+    "en": "Recovery point",
+    "de": "Wiederherstellungspunkt"
+  },
+  "Ad / ID": {
+    "en": "Name / ID",
+    "de": "Name / ID"
+  },
+  "Ad": {
+    "en": "Name",
+    "de": "Name"
+  },
+  "Tür": {
+    "en": "Type",
+    "de": "Typ"
+  },
+  "Tarih": {
+    "en": "Date",
+    "de": "Datum"
+  },
+  "Boyut": {
+    "en": "Size",
+    "de": "Größe"
+  },
+  "İşlem": {
+    "en": "Operation",
+    "de": "Vorgang"
+  },
+  "Geri yükle": {
+    "en": "Restore",
+    "de": "Wiederherstellen"
+  },
+  "Yedeği sil": {
+    "en": "Delete backup",
+    "de": "Sicherung löschen"
+  },
+  "Snapshot ve yedek ayrımı": {
+    "en": "Snapshots and backups",
+    "de": "Snapshots und Sicherungen"
+  },
+  "Kapsam": {
+    "en": "Scope",
+    "de": "Umfang"
+  },
+  "Tutarlılık": {
+    "en": "Consistency",
+    "de": "Konsistenz"
+  },
+  "Saklama süresi": {
+    "en": "Retention period",
+    "de": "Aufbewahrungsdauer"
+  },
+  "Zamanlama": {
+    "en": "Schedule",
+    "de": "Zeitplan"
+  },
+  "Depolama": {
+    "en": "Storage",
+    "de": "Speicher"
+  },
+  "Not": {
+    "en": "Note",
+    "de": "Hinweis"
+  },
+  "Oluştur": {
+    "en": "Create",
+    "de": "Erstellen"
+  },
+  "Geri yükleme onayı": {
+    "en": "Restore confirmation",
+    "de": "Wiederherstellung bestätigen"
+  },
+  "Geri yükleme ayrıntıları": {
+    "en": "Restore details",
+    "de": "Wiederherstellungsdetails"
+  },
+  "Kaynak": {
+    "en": "Source",
+    "de": "Quelle"
+  },
+  "Hedef VM": {
+    "en": "Target VM",
+    "de": "Ziel-VM"
+  },
+  "Disk kapsamı": {
+    "en": "Disk scope",
+    "de": "Laufwerkumfang"
+  },
+  "VM durumu": {
+    "en": "VM status",
+    "de": "VM-Status"
+  },
+  "Ek yedek": {
+    "en": "Additional backup",
+    "de": "Zusätzliche Sicherung"
+  },
+  "Kaynak ve trafik izleme": {
+    "en": "Resource and traffic monitoring",
+    "de": "Ressourcen- und Datenverkehrsüberwachung"
+  },
+  "Ölçüm bilgileri": {
+    "en": "Measurement details",
+    "de": "Messdetails"
+  },
+  "Ölçüm aralığı · Son 24 saat": {
+    "en": "Measurement range · Last 24 hours",
+    "de": "Messzeitraum · Letzte 24 Stunden"
+  },
+  "Örnekleme": {
+    "en": "Sampling",
+    "de": "Abtastung"
+  },
+  "Son ölçüm": {
+    "en": "Last measurement",
+    "de": "Letzte Messung"
+  },
+  "Son ölçüm · 2 dk önce": {
+    "en": "Last sample · 2 min ago",
+    "de": "Letzte Messung · vor 2 Min."
+  },
+  "Anlık": {
+    "en": "Current",
+    "de": "Aktuell"
+  },
+  "Ortalama": {
+    "en": "Average",
+    "de": "Durchschnitt"
+  },
+  "Tepe": {
+    "en": "Peak",
+    "de": "Spitzenwert"
+  },
+  "İşlemci": {
+    "en": "Processor",
+    "de": "Prozessor"
+  },
+  "Bellek": {
+    "en": "Memory",
+    "de": "Arbeitsspeicher"
+  },
+  "DİSK": {
+    "en": "DISK",
+    "de": "LAUFWERK"
+  },
+  "NETWORK": {
+    "en": "NETWORK",
+    "de": "NETZWERK"
+  },
+  "Okuma": {
+    "en": "Read",
+    "de": "Lesen"
+  },
+  "Yazma": {
+    "en": "Write",
+    "de": "Schreiben"
+  },
+  "Toplam": {
+    "en": "Total",
+    "de": "Gesamt"
+  },
+  "1sa": {
+    "en": "1h",
+    "de": "1Std."
+  },
+  "6sa": {
+    "en": "6h",
+    "de": "6Std."
+  },
+  "24sa": {
+    "en": "24h",
+    "de": "24Std."
+  },
+  "7g": {
+    "en": "7d",
+    "de": "7T."
+  },
+  "30g": {
+    "en": "30d",
+    "de": "30T."
+  },
+  "İşlem geçmişi": {
+    "en": "Operation history",
+    "de": "Vorgangsverlauf"
+  },
+  "İşlem kayıtları": {
+    "en": "Operation logs",
+    "de": "Vorgangsprotokolle"
+  },
+  "Filtreler": {
+    "en": "Filters",
+    "de": "Filter"
+  },
+  "İşlem türü": {
+    "en": "Operation type",
+    "de": "Vorgangstyp"
+  },
+  "Görev no": {
+    "en": "Task number",
+    "de": "Aufgabennummer"
+  },
+  "Filtrele": {
+    "en": "Filter",
+    "de": "Filtern"
+  },
+  "Dışa aktar": {
+    "en": "Export",
+    "de": "Exportieren"
+  },
+  "Görev": {
+    "en": "Task",
+    "de": "Aufgabe"
+  },
+  "Görev ID": {
+    "en": "Task ID",
+    "de": "Aufgaben-ID"
+  },
+  "Detay": {
+    "en": "Details",
+    "de": "Details"
+  },
+  "İşlem detayı": {
+    "en": "Operation details",
+    "de": "Vorgangsdetails"
+  },
+  "Görev akışı": {
+    "en": "Task workflow",
+    "de": "Aufgabenablauf"
+  },
+  "İstek ID": {
+    "en": "Request ID",
+    "de": "Anfrage-ID"
+  },
+  "Korelasyon": {
+    "en": "Correlation",
+    "de": "Korrelation"
+  },
+  "İşlem listesine dön": {
+    "en": "Back to operations",
+    "de": "Zurück zu den Vorgängen"
+  },
+  "Loglar": {
+    "en": "Logs",
+    "de": "Protokolle"
+  },
+  "Disk envanteri": {
+    "en": "Disk inventory",
+    "de": "Laufwerkbestand"
+  },
+  "Kapasite artır": {
+    "en": "Increase capacity",
+    "de": "Kapazität erhöhen"
+  },
+  "Mevcut": {
+    "en": "Current",
+    "de": "Aktuell"
+  },
+  "Hedef": {
+    "en": "Target",
+    "de": "Ziel"
+  },
+  "Ek kapasite": {
+    "en": "Additional capacity",
+    "de": "Zusätzliche Kapazität"
+  },
+  "Ücret": {
+    "en": "Price",
+    "de": "Preis"
+  },
+  "Dosya sistemi": {
+    "en": "Filesystem",
+    "de": "Dateisystem"
+  },
+  "Genişletme isteği": {
+    "en": "Request expansion",
+    "de": "Erweiterung anfordern"
+  },
+  "Güç işlemi onayı": {
+    "en": "Power operation confirmation",
+    "de": "Energievorgang bestätigen"
+  },
+  "Güç komutu": {
+    "en": "Power command",
+    "de": "Energiebefehl"
+  },
+  "Hizmet kesintisi": {
+    "en": "Service interruption",
+    "de": "Dienstunterbrechung"
+  },
+  "Mevcut durum": {
+    "en": "Current status",
+    "de": "Aktueller Status"
+  },
+  "Mod": {
+    "en": "Mode",
+    "de": "Modus"
+  },
+  "Gerekçe": {
+    "en": "Reason",
+    "de": "Grund"
+  },
+  "Onay": {
+    "en": "Confirmation",
+    "de": "Bestätigung"
+  },
+  "İşlemi onayla": {
+    "en": "Confirm operation",
+    "de": "Vorgang bestätigen"
+  },
+  "Kayıt silme onayı": {
+    "en": "Record deletion confirmation",
+    "de": "Löschen des Eintrags bestätigen"
+  },
+  "Geri alınamaz işlem": {
+    "en": "Irreversible operation",
+    "de": "Unwiderruflicher Vorgang"
+  },
+  "Silme isteği": {
+    "en": "Deletion request",
+    "de": "Löschanfrage"
+  },
+  "Kayıt": {
+    "en": "Record",
+    "de": "Eintrag"
+  },
+  "Yetki": {
+    "en": "Permission",
+    "de": "Berechtigung"
+  },
+  "Silmeyi onayla": {
+    "en": "Confirm deletion",
+    "de": "Löschen bestätigen"
+  },
+  "Bağlantı ve yetki durumu": {
+    "en": "Connection and permission status",
+    "de": "Verbindungs- und Berechtigungsstatus"
+  },
+  "Modül şu anda kullanılamıyor": {
+    "en": "Module currently unavailable",
+    "de": "Modul derzeit nicht verfügbar"
+  },
+  "Yeniden dene": {
+    "en": "Retry",
+    "de": "Erneut versuchen"
+  },
+  "Admin · Modül bağlantısı": {
+    "en": "Admin · Module connection",
+    "de": "Admin · Modulverbindung"
+  },
+  "Admin · Ürün eşleştirme": {
+    "en": "Admin · Product mapping",
+    "de": "Admin · Produktzuordnung"
+  },
+  "Admin · Hizmet işlemleri": {
+    "en": "Admin · Service operations",
+    "de": "Admin · Dienstvorgänge"
+  },
+  "Sunucu adı": {
+    "en": "Server name",
+    "de": "Servername"
+  },
+  "TLS doğrulama": {
+    "en": "TLS verification",
+    "de": "TLS-Prüfung"
+  },
+  "Süre aşımı": {
+    "en": "Timeout",
+    "de": "Zeitüberschreitung"
+  },
+  "Bağlantı durumu": {
+    "en": "Connection status",
+    "de": "Verbindungsstatus"
+  },
+  "Test et": {
+    "en": "Test",
+    "de": "Testen"
+  },
+  "Test edilmedi": {
+    "en": "Not tested",
+    "de": "Nicht getestet"
+  },
+  "WHC planı": {
+    "en": "WHC plan",
+    "de": "WHC-Tarif"
+  },
+  "Ürün / paket": {
+    "en": "Product / plan",
+    "de": "Produkt / Tarif"
+  },
+  "Ürün planı": {
+    "en": "Product plan",
+    "de": "Produkttarif"
+  },
+  "IPv4 havuzu": {
+    "en": "IPv4 pool",
+    "de": "IPv4-Pool"
+  },
+  "IPv6 havuzu": {
+    "en": "IPv6 pool",
+    "de": "IPv6-Pool"
+  },
+  "Konsol izni": {
+    "en": "Console permission",
+    "de": "Konsolenberechtigung"
+  },
+  "Müşteri ID": {
+    "en": "Customer ID",
+    "de": "Kunden-ID"
+  },
+  "Son senkron": {
+    "en": "Last sync",
+    "de": "Letzte Synchronisierung"
+  },
+  "Hizmet işlemleri": {
+    "en": "Service operations",
+    "de": "Dienstvorgänge"
+  },
+  "Hizmet oluştur": {
+    "en": "Create service",
+    "de": "Dienst erstellen"
+  },
+  "Askıya al": {
+    "en": "Suspend",
+    "de": "Sperren"
+  },
+  "Yeniden etkinleştir": {
+    "en": "Reactivate",
+    "de": "Erneut aktivieren"
+  },
+  "Sonlandır": {
+    "en": "Terminate",
+    "de": "Beenden"
+  },
+  "Paketi değiştir": {
+    "en": "Change plan",
+    "de": "Tarif ändern"
+  },
+  "Yönetici yetkisi": {
+    "en": "Administrator permission",
+    "de": "Administratorberechtigung"
+  },
+  "Sunucuyu başlat": {
+    "en": "Start server",
+    "de": "Server starten"
+  },
+  "Sunucuyu durdur": {
+    "en": "Stop server",
+    "de": "Server stoppen"
+  },
+  "Sunucuyu yeniden başlat": {
+    "en": "Restart server",
+    "de": "Server neustarten"
+  },
+  "Güç açma isteği": {
+    "en": "Power-on request",
+    "de": "Einschaltanfrage"
+  },
+  "Hizmet sahipliği kontrolü": {
+    "en": "Service ownership check",
+    "de": "Prüfung des Dienstinhabers"
+  },
+  "Zorunlu": {
+    "en": "Required",
+    "de": "Erforderlich"
+  },
+  "Tümü": {
+    "en": "All",
+    "de": "Alle"
+  },
+  "Tümü / Başarılı / Hata": {
+    "en": "All / Successful / Error",
+    "de": "Alle / Erfolgreich / Fehler"
+  },
+  "Ara…": {
+    "en": "Search…",
+    "de": "Suchen…"
+  },
+  "Son 30 gün": {
+    "en": "Last 30 days",
+    "de": "Letzte 30 Tage"
+  },
+  "7 gün": {
+    "en": "7 days",
+    "de": "7 Tage"
+  },
+  "30 sn": {
+    "en": "30 seconds",
+    "de": "30 Sekunden"
+  },
+  "5 dakika · örnek": {
+    "en": "5 minutes · sample",
+    "de": "5 Minuten · Beispiel"
+  },
+  "Kapasite": {
+    "en": "Capacity",
+    "de": "Kapazität"
+  },
+  "Netmask": {
+    "en": "Netmask",
+    "de": "Netzmaske"
+  },
+  "Prefix": {
+    "en": "Prefix",
+    "de": "Präfix"
+  },
+  "Routed prefix": {
+    "en": "Routed prefix",
+    "de": "Geroutetes Präfix"
+  },
+  "Dual stack": {
+    "en": "Dual stack",
+    "de": "Dual-Stack"
+  },
+  "OS policy": {
+    "en": "OS policy",
+    "de": "Betriebssystemrichtlinie"
+  },
+  "OS kurulumu": {
+    "en": "OS installation",
+    "de": "Betriebssysteminstallation"
+  },
+  "PTR (sabit)": {
+    "en": "PTR (fixed)",
+    "de": "PTR (fest)"
+  },
+  "Sistem diski": {
+    "en": "System disk",
+    "de": "Systemlaufwerk"
+  },
+  "Sistem diski / tüm diskler": {
+    "en": "System disk / all disks",
+    "de": "Systemlaufwerk / alle Laufwerke"
+  },
+  "Snapshot / imaj yedeği": {
+    "en": "Snapshot / image backup",
+    "de": "Snapshot / Abbildsicherung"
+  },
+  "Guest quiesce (desteklenirse)": {
+    "en": "Guest quiesce (if supported)",
+    "de": "Gast-Konsistenzsicherung (falls unterstützt)"
+  },
+  "Guest shutdown (desteklenirse)": {
+    "en": "Guest shutdown (if supported)",
+    "de": "Gast herunterfahren (falls unterstützt)"
+  },
+  "Guest tools / manuel": {
+    "en": "Guest tools / manual",
+    "de": "Gastwerkzeuge / manuell"
+  },
+  "Sağlayıcı varsayılanı": {
+    "en": "Provider default",
+    "de": "Anbieterstandard"
+  },
+  "Sağlayıcı yönetiminde": {
+    "en": "Managed by provider",
+    "de": "Vom Anbieter verwaltet"
+  },
+  "Sağlayıcıya göre": {
+    "en": "Depends on provider",
+    "de": "Anbieterabhängig"
+  },
+  "Yetkili sağlayıcıya göre": {
+    "en": "Depends on authorized provider",
+    "de": "Abhängig vom berechtigten Anbieter"
+  },
+  "Onaylı imajlar": {
+    "en": "Approved images",
+    "de": "Freigegebene Abbilder"
+  },
+  "Kota dahilinde": {
+    "en": "Within quota",
+    "de": "Innerhalb des Kontingents"
+  },
+  "Ücret / plan kontrolü": {
+    "en": "Price / plan check",
+    "de": "Preis- / Tarifprüfung"
+  },
+  "Ödeme onayından sonra": {
+    "en": "After payment approval",
+    "de": "Nach Zahlungsbestätigung"
+  },
+  "Ödeme sisteminden hesaplanır": {
+    "en": "Calculated by billing system",
+    "de": "Vom Abrechnungssystem berechnet"
+  },
+  "Yalnızca ilgili tür": {
+    "en": "Only for applicable types",
+    "de": "Nur für zutreffende Typen"
+  },
+  "Yalnızca SRV": {
+    "en": "SRV only",
+    "de": "Nur SRV"
+  },
+  "Yalnızca CAA": {
+    "en": "CAA only",
+    "de": "Nur CAA"
+  },
+  "Bu türde uygulanmaz": {
+    "en": "Not applicable to this type",
+    "de": "Für diesen Typ nicht anwendbar"
+  },
+  "Linux için isteğe bağlı": {
+    "en": "Optional for Linux",
+    "de": "Optional für Linux"
+  },
+  "Atanmış IP'leri koru": {
+    "en": "Keep assigned IP addresses",
+    "de": "Zugewiesene IP-Adressen beibehalten"
+  },
+  "Son yedeği doğrula": {
+    "en": "Verify latest backup",
+    "de": "Letzte Sicherung prüfen"
+  },
+  "Desteklenirse önce oluştur": {
+    "en": "Create first if supported",
+    "de": "Falls unterstützt zuerst erstellen"
+  },
+  "İşleme uygun duruma getir": {
+    "en": "Prepare for operation",
+    "de": "Für den Vorgang vorbereiten"
+  },
+  "Güncelleme öncesi": {
+    "en": "Before update",
+    "de": "Vor dem Update"
+  },
+  "Bakım": {
+    "en": "Maintenance",
+    "de": "Wartung"
+  },
+  "A / AAAA doğrulaması": {
+    "en": "A / AAAA verification",
+    "de": "A-/AAAA-Prüfung"
+  },
+  "Tipe uygun değer": {
+    "en": "Value matching the type",
+    "de": "Zum Typ passender Wert"
+  },
+  "Yalnızca hizmete atanmış IP": {
+    "en": "Only IPs assigned to this service",
+    "de": "Nur diesem Dienst zugewiesene IPs"
+  },
+  "Disk genişletme isteğini onaylıyor musunuz?": {
+    "en": "Confirm the disk expansion request?",
+    "de": "Laufwerkerweiterung bestätigen?"
+  },
+  "Yetkili": {
+    "en": "Actor",
+    "de": "Ausführender Benutzer"
+  },
+  "Sunucu yapılandırması": {
+    "en": "Server configuration",
+    "de": "Serverkonfiguration"
+  },
+  "Ürün eşleştirme": {
+    "en": "Product mapping",
+    "de": "Produktzuordnung"
+  },
+  "WHC API bağlantısı": {
+    "en": "WHC API connection",
+    "de": "WHC-API-Verbindung"
+  },
+  "Sunucu modülü · Yapılandırma": {
+    "en": "Server module · Configuration",
+    "de": "Servermodul · Konfiguration"
+  },
+  "WHCSystem Modülü": {
+    "en": "WHCSystem Module",
+    "de": "WHCSystem-Modul"
+  },
+  "WHMCS modülü": {
+    "en": "WHMCS module",
+    "de": "WHMCS-Modul"
+  },
+  "WISECP modülü": {
+    "en": "WISECP module",
+    "de": "WISECP-Modul"
+  },
+  "WHMCS · Yönetici alanı": {
+    "en": "WHMCS · Admin area",
+    "de": "WHMCS · Administrationsbereich"
+  },
+  "WISECP · Yönetici alanı": {
+    "en": "WISECP · Admin area",
+    "de": "WISECP · Administrationsbereich"
+  },
+  "Hizmet #10482 · Müşteri": {
+    "en": "Service #10482 · Customer",
+    "de": "Dienst #10482 · Kunde"
+  },
+  "Hizmet #10482 · VM eşleştirmesi": {
+    "en": "Service #10482 · VM mapping",
+    "de": "Dienst #10482 · VM-Zuordnung"
+  },
+  "Yedekleme": {
+    "en": "Backups",
+    "de": "Sicherungen"
+  },
+  "Aç": {
+    "en": "Open",
+    "de": "Öffnen"
+  },
+  "Başlat / Güvenli kapat / Yeniden başlat": {
+    "en": "Start / Shut down safely / Restart",
+    "de": "Starten / Sicher herunterfahren / Neustarten"
+  },
+  "IPv4 gateway": {
+    "en": "IPv4 gateway",
+    "de": "IPv4-Gateway"
+  },
+  "IPv6 gateway": {
+    "en": "IPv6 gateway",
+    "de": "IPv6-Gateway"
+  },
+  "rDNS": {
+    "en": "rDNS",
+    "de": "rDNS"
+  },
+  "v6.vm-10482.example.": {
+    "en": "v6.vm-10482.example.",
+    "de": "v6.vm-10482.example."
+  },
+  "Şimdi / planlı": {
+    "en": "Now / scheduled",
+    "de": "Jetzt / geplant"
+  },
+  "•••••••••••• (gizli)": {
+    "en": "•••••••••••• (hidden)",
+    "de": "•••••••••••• (verborgen)"
+  },
+  "Parola değişikliği ve SSH erişimi.": {
+    "en": "Password changes and SSH access.",
+    "de": "Passwortänderungen und SSH-Zugang."
+  },
+  "SSH özel anahtarı hiçbir zaman sisteme yüklenmez.": {
+    "en": "Never upload an SSH private key to the system.",
+    "de": "Laden Sie niemals einen privaten SSH-Schlüssel in das System hoch."
+  },
+  "Tek hizmete bağlı, kısa süreli güvenli konsol oturumu.": {
+    "en": "A short-lived, secure console session bound to one service.",
+    "de": "Kurzlebige, sichere Konsolensitzung für genau einen Dienst."
+  },
+  "Bağlan seçeneğiyle oturum başlatın.": {
+    "en": "Select Connect to start a session.",
+    "de": "Wählen Sie Verbinden, um eine Sitzung zu starten."
+  },
+  "Yeniden başlatma ve kapatma bağlantıyı kesebilir.": {
+    "en": "Restarting or shutting down may disconnect the session.",
+    "de": "Neustart oder Herunterfahren kann die Verbindung trennen."
+  },
+  "Bağlantı kurulmadan gönderim etkinleşmez.": {
+    "en": "Sending is enabled after connecting.",
+    "de": "Senden wird nach dem Verbindungsaufbau aktiviert."
+  },
+  "OS imajı ve hedef disk seçerek yeniden kurulum.": {
+    "en": "Reinstall by selecting an OS image and target disk.",
+    "de": "Neuinstallation durch Auswahl von Betriebssystemabbild und Ziellaufwerk."
+  },
+  "Hedef sistem diski silinebilir. Yedeklerin durumunu doğrulayın.": {
+    "en": "The target system disk may be erased. Verify your backups.",
+    "de": "Das Ziellaufwerk kann gelöscht werden. Prüfen Sie Ihre Sicherungen."
+  },
+  "Onay: hedef diskteki verilerin silinebileceğini anladım. Gerekli yedeği aldım.": {
+    "en": "I understand that data on the target disk may be erased. I have created the required backup.",
+    "de": "Ich verstehe, dass Daten auf dem Ziellaufwerk gelöscht werden können. Die erforderliche Sicherung wurde erstellt."
+  },
+  "İstek ve provisioning görevi takibi.": {
+    "en": "Track requests and provisioning tasks.",
+    "de": "Anfragen und Bereitstellungsaufgaben verfolgen."
+  },
+  "Atanmış IPv4 adresleri, gateway ve ağ arayüzleri.": {
+    "en": "Assigned IPv4 addresses, gateways and network interfaces.",
+    "de": "Zugewiesene IPv4-Adressen, Gateways und Netzwerkschnittstellen."
+  },
+  "IPv6 tahsisleri, yönlendirme ve prefix bilgileri.": {
+    "en": "IPv6 allocations, routing and prefix details.",
+    "de": "IPv6-Zuweisungen, Routing und Präfixdetails."
+  },
+  "IPv6 işlevleri WHC API ve sağlayıcı desteği doğrulandığında etkinleştirilir.": {
+    "en": "IPv6 features are enabled when WHC API and provider support are verified.",
+    "de": "IPv6-Funktionen werden nach Bestätigung der WHC-API- und Anbieterunterstützung aktiviert."
+  },
+  "Atanmış adresleri işletim sistemine uygulayın.": {
+    "en": "Apply assigned addresses to the operating system.",
+    "de": "Zugewiesene Adressen auf das Betriebssystem anwenden."
+  },
+  "Ağ bağlantıları geçici olarak kesilir.": {
+    "en": "Network connections will be interrupted temporarily.",
+    "de": "Netzwerkverbindungen werden vorübergehend unterbrochen."
+  },
+  "Bağlantı geçici kesilebilir. Yalnızca hizmete atanmış IP adresleri uygulanabilir.": {
+    "en": "The connection may be interrupted. Only IP addresses assigned to this service can be applied.",
+    "de": "Die Verbindung kann unterbrochen werden. Nur diesem Dienst zugewiesene IP-Adressen können angewendet werden."
+  },
+  "Atanmış IPv4 ve IPv6 adreslerinin PTR kayıtları.": {
+    "en": "PTR records for assigned IPv4 and IPv6 addresses.",
+    "de": "PTR-Einträge für zugewiesene IPv4- und IPv6-Adressen."
+  },
+  "IP sahipliği ve kayıt yetkisi sunucu tarafında doğrulanır.": {
+    "en": "IP ownership and record permissions are verified on the server.",
+    "de": "IP-Inhaberschaft und Eintragsberechtigungen werden auf dem Server geprüft."
+  },
+  "Yetkili IPv4 veya IPv6 adresi için PTR hedefi.": {
+    "en": "PTR target for an authorized IPv4 or IPv6 address.",
+    "de": "PTR-Ziel für eine berechtigte IPv4- oder IPv6-Adresse."
+  },
+  "PTR kaydında MX önceliği kullanılmaz. DNS önbelleği nedeniyle yayılım gecikebilir.": {
+    "en": "PTR records do not use MX priority. DNS caching may delay propagation.",
+    "de": "PTR-Einträge verwenden keine MX-Priorität. DNS-Caches können die Verbreitung verzögern."
+  },
+  "Mevcut PTR kaydının değerini güncelleyin.": {
+    "en": "Update the value of an existing PTR record.",
+    "de": "Wert eines bestehenden PTR-Eintrags aktualisieren."
+  },
+  "Yalnızca sağlayıcının yetkilendirdiği ters DNS kayıtları düzenlenebilir.": {
+    "en": "Only reverse DNS records authorized by the provider can be edited.",
+    "de": "Nur vom Anbieter freigegebene Reverse-DNS-Einträge können bearbeitet werden."
+  },
+  "Yetkili DNS sağlayıcısı üzerinden forward DNS yönetimi.": {
+    "en": "Manage forward DNS through an authorized DNS provider.",
+    "de": "Forward-DNS-Verwaltung über einen berechtigten DNS-Anbieter."
+  },
+  "DNS bölgesi bağlı ve yetkili değilse kayıt işlemleri kapalı kalır.": {
+    "en": "Record operations remain disabled unless the DNS zone is connected and authorized.",
+    "de": "Eintragsvorgänge bleiben deaktiviert, bis die DNS-Zone verbunden und freigegeben ist."
+  },
+  "Kayıt tipi, değer ve TTL yönetimi.": {
+    "en": "Manage record type, value and TTL.",
+    "de": "Eintragstyp, Wert und TTL verwalten."
+  },
+  "Tip bazlı doğrulama ve kayıt ekleme.": {
+    "en": "Type-specific validation and record creation.",
+    "de": "Typspezifische Prüfung und Erstellung von Einträgen."
+  },
+  "Tip, FQDN, IP, CNAME çakışması ve bölge yetkisi doğrulanır.": {
+    "en": "Type, FQDN, IP, CNAME conflicts and zone permissions are validated.",
+    "de": "Typ, FQDN, IP, CNAME-Konflikte und Zonenberechtigungen werden geprüft."
+  },
+  "DNS yayılımı TTL ve çözümleyici önbelleğine bağlıdır.": {
+    "en": "DNS propagation depends on TTL and resolver caches.",
+    "de": "Die DNS-Verbreitung hängt von TTL und Resolver-Caches ab."
+  },
+  "Geri dönüş noktaları ve yedekleme politikası.": {
+    "en": "Recovery points and backup policy.",
+    "de": "Wiederherstellungspunkte und Sicherungsrichtlinie."
+  },
+  "Snapshot bağımsız imaj yedeği değildir. Yedek türleri sağlayıcı desteğine bağlıdır.": {
+    "en": "A snapshot is not an independent image backup. Backup types depend on provider support.",
+    "de": "Ein Snapshot ist keine unabhängige Abbildsicherung. Sicherungstypen hängen von der Anbieterunterstützung ab."
+  },
+  "Kapsam, tutarlılık, saklama ve zamanlama.": {
+    "en": "Scope, consistency, retention and scheduling.",
+    "de": "Umfang, Konsistenz, Aufbewahrung und Zeitplanung."
+  },
+  "Kota ve depolama alanı kontrol edilir.": {
+    "en": "Quota and storage space are checked.",
+    "de": "Kontingent und Speicherplatz werden geprüft."
+  },
+  "Geri dönüş noktasından güvenli geri yükleme.": {
+    "en": "Safely restore from a recovery point.",
+    "de": "Sicher aus einem Wiederherstellungspunkt wiederherstellen."
+  },
+  "Geri dönüş noktasından sonra yazılan veriler kaybolabilir.": {
+    "en": "Data written after the recovery point may be lost.",
+    "de": "Nach dem Wiederherstellungspunkt geschriebene Daten können verloren gehen."
+  },
+  "Onay: geri yüklemenin mevcut verileri değiştirebileceğini anladım.": {
+    "en": "I understand that restoring may change existing data.",
+    "de": "Ich verstehe, dass die Wiederherstellung vorhandene Daten ändern kann."
+  },
+  "CPU, RAM, Disk ve Network · ayrıntılı metrikler": {
+    "en": "CPU, RAM, disk and network · detailed metrics",
+    "de": "CPU, RAM, Laufwerk und Netzwerk · detaillierte Messwerte"
+  },
+  "CPU, RAM, DİSK ve NETWORK · ayrıntılı kaynak izleme": {
+    "en": "CPU, RAM, DISK and NETWORK · detailed resource monitoring",
+    "de": "CPU, RAM, LAUFWERK und NETZWERK · detaillierte Ressourcenüberwachung"
+  },
+  "Görev ve denetim kayıtları.": {
+    "en": "Task and audit logs.",
+    "de": "Aufgaben- und Prüfprotokolle."
+  },
+  "Görev kimliği, adımlar ve sonuç.": {
+    "en": "Task identifier, steps and result.",
+    "de": "Aufgabenkennung, Schritte und Ergebnis."
+  },
+  "Mevcut ve hedef disk kapasitesi.": {
+    "en": "Current and target disk capacity.",
+    "de": "Aktuelle und gewünschte Laufwerkkapazität."
+  },
+  "Disk küçültme yapılmaz. Ücretli değişiklikler hosting ödeme akışı üzerinden onaylanır.": {
+    "en": "Disk shrinking is not supported. Paid changes are approved through the hosting billing flow.",
+    "de": "Laufwerke werden nicht verkleinert. Kostenpflichtige Änderungen werden im Hosting-Zahlungsablauf bestätigt."
+  },
+  "Sunucu başlatma, kapatma ve yeniden başlatma.": {
+    "en": "Start, shut down and restart the server.",
+    "de": "Server starten, herunterfahren und neu starten."
+  },
+  "Hizmet bağlantıları kapanır; devam eden işlemleri kontrol edin.": {
+    "en": "Service connections will close; check running operations.",
+    "de": "Dienstverbindungen werden geschlossen. Prüfen Sie laufende Vorgänge."
+  },
+  "Zorla kapatma ayrıca açık onay ve sağlayıcı yetkisi gerektirir.": {
+    "en": "A forced shutdown also requires explicit confirmation and provider permission.",
+    "de": "Erzwungenes Ausschalten erfordert eine zusätzliche Bestätigung und Anbieterberechtigung."
+  },
+  "Seçili PTR kaydının silinmesi.": {
+    "en": "Delete the selected PTR record.",
+    "de": "Ausgewählten PTR-Eintrag löschen."
+  },
+  "Seçili DNS kaydının silinmesi.": {
+    "en": "Delete the selected DNS record.",
+    "de": "Ausgewählten DNS-Eintrag löschen."
+  },
+  "Seçili geri dönüş noktasının silinmesi.": {
+    "en": "Delete the selected recovery point.",
+    "de": "Ausgewählten Wiederherstellungspunkt löschen."
+  },
+  "Kayıt silinmeden önce tür, hedef ve etkisi doğrulanmalıdır.": {
+    "en": "Verify the type, target and impact before deleting a record.",
+    "de": "Prüfen Sie Typ, Ziel und Auswirkungen, bevor Sie einen Eintrag löschen."
+  },
+  "Onay: PTR çözümlemesinin etkilenebileceğini anladım.": {
+    "en": "I understand that PTR resolution may be affected.",
+    "de": "Ich verstehe, dass die PTR-Auflösung beeinträchtigt werden kann."
+  },
+  "Onay: DNS çözümlemesinin etkilenebileceğini anladım.": {
+    "en": "I understand that DNS resolution may be affected.",
+    "de": "Ich verstehe, dass die DNS-Auflösung beeinträchtigt werden kann."
+  },
+  "Onay: bu geri dönüş noktasının kalıcı olarak silineceğini anladım.": {
+    "en": "I understand that this recovery point will be permanently deleted.",
+    "de": "Ich verstehe, dass dieser Wiederherstellungspunkt dauerhaft gelöscht wird."
+  },
+  "WHMCS sunucu modülü bağlantı yapılandırması.": {
+    "en": "WHMCS server module connection configuration.",
+    "de": "Verbindungskonfiguration des WHMCS-Servermoduls."
+  },
+  "WISECP sunucu modülü bağlantı yapılandırması.": {
+    "en": "WISECP server module connection configuration.",
+    "de": "Verbindungskonfiguration des WISECP-Servermoduls."
+  },
+  "Gizli anahtarlar yalnızca sunucu tarafında saklanır.": {
+    "en": "Secret keys are stored only on the server.",
+    "de": "Geheime Schlüssel werden ausschließlich auf dem Server gespeichert."
+  },
+  "Hosting paketi ile WHC altyapı planı bağlantısı.": {
+    "en": "Link the hosting package to a WHC infrastructure plan.",
+    "de": "Hosting-Tarif mit einem WHC-Infrastrukturtarif verknüpfen."
+  },
+  "Ürün limitleri ve müşteri eylemleri sunucu tarafında doğrulanır.": {
+    "en": "Product limits and customer actions are validated on the server.",
+    "de": "Produktgrenzen und Kundenaktionen werden auf dem Server geprüft."
+  },
+  "VM eşleştirmesi ve modül yaşam döngüsü.": {
+    "en": "VM mapping and module lifecycle.",
+    "de": "VM-Zuordnung und Modullebenszyklus."
+  },
+  "Sonlandırma ve askıya alma öncesinde etki analizi, RBAC ve açık onay gereklidir.": {
+    "en": "Termination and suspension require an impact check, RBAC and explicit confirmation.",
+    "de": "Beendigung und Sperrung erfordern eine Auswirkungsprüfung, RBAC und ausdrückliche Bestätigung."
+  },
+  "Bağlantı hatası veya desteklenmeyen özellik durumu.": {
+    "en": "Connection failure or unsupported feature status.",
+    "de": "Status bei Verbindungsfehlern oder nicht unterstützten Funktionen."
+  },
+  "API bağlantısı, hizmet yetkisi veya sağlayıcı desteği doğrulanamadı. Verileriniz korunur.": {
+    "en": "The API connection, service permission or provider support could not be verified. Your data is preserved.",
+    "de": "API-Verbindung, Dienstberechtigung oder Anbieterunterstützung konnte nicht bestätigt werden. Ihre Daten bleiben erhalten."
+  },
+  "Sunucu kapalı durumdan başlatılacaktır.": {
+    "en": "The server will be started from the powered-off state.",
+    "de": "Der ausgeschaltete Server wird gestartet."
+  },
+  "Disk": {
+    "en": "Disk",
+    "de": "Laufwerk"
+  },
+  "Disk 0": {
+    "en": "Disk 0",
+    "de": "Laufwerk 0"
+  },
+  "Disk 0 · 130 GB": {
+    "en": "Disk 0 · 130 GB",
+    "de": "Laufwerk 0 · 130 GB"
+  },
+  "Provider": {
+    "en": "Provider",
+    "de": "Anbieter"
+  },
+  "API token": {
+    "en": "API token",
+    "de": "API-Token"
+  },
+  "Webhook secret": {
+    "en": "Webhook secret",
+    "de": "Webhook-Geheimnis"
+  },
+  "Backup / snapshot": {
+    "en": "Backup / snapshot",
+    "de": "Sicherung / Snapshot"
+  },
+  "Public IPv4": {
+    "en": "Public IPv4",
+    "de": "Öffentliches IPv4"
+  },
+  "Public IPv6": {
+    "en": "Public IPv6",
+    "de": "Öffentliches IPv6"
+  },
+  "SECURE REMOTE CONSOLE": {
+    "en": "SECURE REMOTE CONSOLE",
+    "de": "SICHERE REMOTE-KONSOLE"
+  },
+  "Test connection": {
+    "en": "Test connection",
+    "de": "Verbindung testen"
+  },
+  "Hizmet #10482": {
+    "en": "Service #10482",
+    "de": "Dienst #10482"
+  },
+  "192.0.2.10 · atanmış": {
+    "en": "192.0.2.10 · assigned",
+    "de": "192.0.2.10 · zugewiesen"
+  },
+  "12% kullanım": {
+    "en": "12% usage",
+    "de": "12 % Nutzung"
+  },
+  "9g 4s": {
+    "en": "9d 4h",
+    "de": "9T. 4Std."
+  },
+  "RDP / SSH (OS desteğine göre)": {
+    "en": "RDP / SSH (depending on OS support)",
+    "de": "RDP / SSH (je nach Betriebssystemunterstützung)"
+  },
+  "#10482": {
+    "en": "#10482",
+    "de": "#10482"
+  },
+  "$24.90 · örnek": {
+    "en": "$24.90 · sample",
+    "de": "$24.90 · Beispiel"
+  },
+  "%65": {
+    "en": "%65",
+    "de": "%65"
+  },
+  "/24": {
+    "en": "/24",
+    "de": "/24"
+  },
+  "/64": {
+    "en": "/64",
+    "de": "/64"
+  },
+  "0 %": {
+    "en": "0 %",
+    "de": "0 %"
+  },
+  "0 GB": {
+    "en": "0 GB",
+    "de": "0 GB"
+  },
+  "0 MB/s": {
+    "en": "0 MB/s",
+    "de": "0 MB/s"
+  },
+  "0 Mb/s": {
+    "en": "0 Mb/s",
+    "de": "0 Mb/s"
+  },
+  "00:00": {
+    "en": "00:00",
+    "de": "00:00"
+  },
+  "02:00:00:00:00:10": {
+    "en": "02:00:00:00:00:10",
+    "de": "02:00:00:00:00:10"
+  },
+  "08:00": {
+    "en": "08:00",
+    "de": "08:00"
+  },
+  "10 %": {
+    "en": "10 %",
+    "de": "10 %"
+  },
+  "10 MB/s": {
+    "en": "10 MB/s",
+    "de": "10 MB/s"
+  },
+  "10 mail.example.net.": {
+    "en": "10 mail.example.net.",
+    "de": "10 mail.example.net."
+  },
+  "100 Mb/s": {
+    "en": "100 Mb/s",
+    "de": "100 Mb/s"
+  },
+  "11,5%": {
+    "en": "11,5%",
+    "de": "11,5%"
+  },
+  "12 GB": {
+    "en": "12 GB",
+    "de": "12 GB"
+  },
+  "12%": {
+    "en": "12%",
+    "de": "12%"
+  },
+  "12% · 6 vCPU": {
+    "en": "12% · 6 vCPU",
+    "de": "12% · 6 vCPU"
+  },
+  "13.11.2026": {
+    "en": "13.11.2026",
+    "de": "13.11.2026"
+  },
+  "13.8 GB": {
+    "en": "13.8 GB",
+    "de": "13.8 GB"
+  },
+  "130 GB": {
+    "en": "130 GB",
+    "de": "130 GB"
+  },
+  "15 %": {
+    "en": "15 %",
+    "de": "15 %"
+  },
+  "15%": {
+    "en": "15%",
+    "de": "15%"
+  },
+  "16 MB/s": {
+    "en": "16 MB/s",
+    "de": "16 MB/s"
+  },
+  "16:00": {
+    "en": "16:00",
+    "de": "16:00"
+  },
+  "17,3 MB/s": {
+    "en": "17,3 MB/s",
+    "de": "17,3 MB/s"
+  },
+  "18 / 50 GB": {
+    "en": "18 / 50 GB",
+    "de": "18 / 50 GB"
+  },
+  "180 GB": {
+    "en": "180 GB",
+    "de": "180 GB"
+  },
+  "19.11.26 08:10": {
+    "en": "19.11.26 08:10",
+    "de": "19.11.26 08:10"
+  },
+  "192.0.2.1": {
+    "en": "192.0.2.1",
+    "de": "192.0.2.1"
+  },
+  "192.0.2.10": {
+    "en": "192.0.2.10",
+    "de": "192.0.2.10"
+  },
+  "192.0.2.10/24": {
+    "en": "192.0.2.10/24",
+    "de": "192.0.2.10/24"
+  },
+  "192.0.2.11": {
+    "en": "192.0.2.11",
+    "de": "192.0.2.11"
+  },
+  "192.0.2.53": {
+    "en": "192.0.2.53",
+    "de": "192.0.2.53"
+  },
+  "192.0.2.54": {
+    "en": "192.0.2.54",
+    "de": "192.0.2.54"
+  },
+  "2 kayıt · Örnek veriler": {
+    "en": "2 records · Sample data",
+    "de": "2 Einträge · Beispieldaten"
+  },
+  "20 %": {
+    "en": "20 %",
+    "de": "20 %"
+  },
+  "20 MB/s": {
+    "en": "20 MB/s",
+    "de": "20 MB/s"
+  },
+  "20.11.2026": {
+    "en": "20.11.2026",
+    "de": "20.11.2026"
+  },
+  "20.11.26 18:22": {
+    "en": "20.11.26 18:22",
+    "de": "20.11.26 18:22"
+  },
+  "2001:db8:100::/64": {
+    "en": "2001:db8:100::/64",
+    "de": "2001:db8:100::/64"
+  },
+  "2001:db8:100::1": {
+    "en": "2001:db8:100::1",
+    "de": "2001:db8:100::1"
+  },
+  "2001:db8:100::10": {
+    "en": "2001:db8:100::10",
+    "de": "2001:db8:100::10"
+  },
+  "2001:db8:100::10/64": {
+    "en": "2001:db8:100::10/64",
+    "de": "2001:db8:100::10/64"
+  },
+  "2001:db8:100::11": {
+    "en": "2001:db8:100::11",
+    "de": "2001:db8:100::11"
+  },
+  "2001:db8::53": {
+    "en": "2001:db8::53",
+    "de": "2001:db8::53"
+  },
+  "21.11.2026": {
+    "en": "21.11.2026",
+    "de": "21.11.2026"
+  },
+  "21.11.2026 · Başarılı": {
+    "en": "21.11.2026 · Successful",
+    "de": "21.11.2026 · Erfolgreich"
+  },
+  "21.11.26 04:00": {
+    "en": "21.11.26 04:00",
+    "de": "21.11.26 04:00"
+  },
+  "22.11.2026 04:00": {
+    "en": "22.11.2026 04:00",
+    "de": "22.11.2026 04:00"
+  },
+  "22.11.2026 04:05": {
+    "en": "22.11.2026 04:05",
+    "de": "22.11.2026 04:05"
+  },
+  "22.11.26 04:05": {
+    "en": "22.11.26 04:05",
+    "de": "22.11.26 04:05"
+  },
+  "22.12.2026": {
+    "en": "22.12.2026",
+    "de": "22.12.2026"
+  },
+  "24:00": {
+    "en": "24:00",
+    "de": "24:00"
+  },
+  "25 Mb/s": {
+    "en": "25 Mb/s",
+    "de": "25 Mb/s"
+  },
+  "255.255.255.0": {
+    "en": "255.255.255.0",
+    "de": "255.255.255.0"
+  },
+  "26% · 34 / 130 GB": {
+    "en": "26% · 34 / 130 GB",
+    "de": "26% · 34 / 130 GB"
+  },
+  "27% · 3.2 / 12 GB": {
+    "en": "27% · 3.2 / 12 GB",
+    "de": "27% · 3.2 / 12 GB"
+  },
+  "3 GB": {
+    "en": "3 GB",
+    "de": "3 GB"
+  },
+  "3,2 GB": {
+    "en": "3,2 GB",
+    "de": "3,2 GB"
+  },
+  "3,3 GB": {
+    "en": "3,3 GB",
+    "de": "3,3 GB"
+  },
+  "3.2 / 12 GB": {
+    "en": "3.2 / 12 GB",
+    "de": "3.2 / 12 GB"
+  },
+  "30 MB/s": {
+    "en": "30 MB/s",
+    "de": "30 MB/s"
+  },
+  "34 / 130 GB": {
+    "en": "34 / 130 GB",
+    "de": "34 / 130 GB"
+  },
+  "34 GB": {
+    "en": "34 GB",
+    "de": "34 GB"
+  },
+  "4 kayıt · Örnek veriler": {
+    "en": "4 records · Sample data",
+    "de": "4 Einträge · Beispieldaten"
+  },
+  "4.2 GB": {
+    "en": "4.2 GB",
+    "de": "4.2 GB"
+  },
+  "40 MB/s": {
+    "en": "40 MB/s",
+    "de": "40 MB/s"
+  },
+  "5 %": {
+    "en": "5 %",
+    "de": "5 %"
+  },
+  "5 kayıt · Örnek veriler": {
+    "en": "5 records · Sample data",
+    "de": "5 Einträge · Beispieldaten"
+  },
+  "50 GB": {
+    "en": "50 GB",
+    "de": "50 GB"
+  },
+  "50 Mb/s": {
+    "en": "50 Mb/s",
+    "de": "50 Mb/s"
+  },
+  "56 / 18 Mb/s": {
+    "en": "56 / 18 Mb/s",
+    "de": "56 / 18 Mb/s"
+  },
+  "6 GB": {
+    "en": "6 GB",
+    "de": "6 GB"
+  },
+  "6 vCPU": {
+    "en": "6 vCPU",
+    "de": "6 vCPU"
+  },
+  "6 vCPU / 12 GB / 130 GB": {
+    "en": "6 vCPU / 12 GB / 130 GB",
+    "de": "6 vCPU / 12 GB / 130 GB"
+  },
+  "60,6 Mb/s": {
+    "en": "60,6 Mb/s",
+    "de": "60,6 Mb/s"
+  },
+  "74 Mb/s": {
+    "en": "74 Mb/s",
+    "de": "74 Mb/s"
+  },
+  "75 Mb/s": {
+    "en": "75 Mb/s",
+    "de": "75 Mb/s"
+  },
+  "9 GB": {
+    "en": "9 GB",
+    "de": "9 GB"
+  },
+  "95 Mb/s": {
+    "en": "95 Mb/s",
+    "de": "95 Mb/s"
+  },
+  "@": {
+    "en": "@",
+    "de": "@"
+  },
+  "A": {
+    "en": "A",
+    "de": "A"
+  },
+  "A · @ · 192.0.2.10": {
+    "en": "A · @ · 192.0.2.10",
+    "de": "A · @ · 192.0.2.10"
+  },
+  "A, AAAA, CNAME, MX, TXT, SRV, CAA": {
+    "en": "A, AAAA, CNAME, MX, TXT, SRV, CAA",
+    "de": "A, AAAA, CNAME, MX, TXT, SRV, CAA"
+  },
+  "AAAA": {
+    "en": "AAAA",
+    "de": "AAAA"
+  },
+  "API URL": {
+    "en": "API URL",
+    "de": "API URL"
+  },
+  "Admin": {
+    "en": "Admin",
+    "de": "Admin"
+  },
+  "BK-002": {
+    "en": "BK-002",
+    "de": "BK-002"
+  },
+  "CNAME": {
+    "en": "CNAME",
+    "de": "CNAME"
+  },
+  "CPU": {
+    "en": "CPU",
+    "de": "CPU"
+  },
+  "CUS-001": {
+    "en": "CUS-001",
+    "de": "CUS-001"
+  },
+  "ChangePackage": {
+    "en": "ChangePackage",
+    "de": "ChangePackage"
+  },
+  "CreateAccount": {
+    "en": "CreateAccount",
+    "de": "CreateAccount"
+  },
+  "Ctrl+Alt+Del": {
+    "en": "Ctrl+Alt+Del",
+    "de": "Ctrl+Alt+Del"
+  },
+  "DNS / PTR": {
+    "en": "DNS / PTR",
+    "de": "DNS / PTR"
+  },
+  "DNS resolver": {
+    "en": "DNS resolver",
+    "de": "DNS resolver"
+  },
+  "DNS resolver 1": {
+    "en": "DNS resolver 1",
+    "de": "DNS resolver 1"
+  },
+  "DNS resolver 2": {
+    "en": "DNS resolver 2",
+    "de": "DNS resolver 2"
+  },
+  "DNS-004 · example.net": {
+    "en": "DNS-004 · example.net",
+    "de": "DNS-004 · example.net"
+  },
+  "DNSSEC": {
+    "en": "DNSSEC",
+    "de": "DNSSEC"
+  },
+  "Gateway": {
+    "en": "Gateway",
+    "de": "Gateway"
+  },
+  "Global": {
+    "en": "Global",
+    "de": "Global"
+  },
+  "Guest tools / cloud-init": {
+    "en": "Guest tools / cloud-init",
+    "de": "Guest tools / cloud-init"
+  },
+  "Hizmetlerim  /  VPS Enterprise  /  Bağlantı ve yetki durumu": {
+    "en": "My services  /  VPS Enterprise  /  Connection and permission status",
+    "de": "Meine Dienste  /  VPS Enterprise  /  Verbindungs- und Berechtigungsstatus"
+  },
+  "Hizmetlerim  /  VPS Enterprise  /  DNS bölgeleri ve kayıtları": {
+    "en": "My services  /  VPS Enterprise  /  DNS zones and records",
+    "de": "Meine Dienste  /  VPS Enterprise  /  DNS-Zonen und Einträge"
+  },
+  "Hizmetlerim  /  VPS Enterprise  /  DNS kaydı düzenle": {
+    "en": "My services  /  VPS Enterprise  /  Edit DNS record",
+    "de": "Meine Dienste  /  VPS Enterprise  /  DNS-Eintrag bearbeiten"
+  },
+  "Hizmetlerim  /  VPS Enterprise  /  DNS kaydı oluştur": {
+    "en": "My services  /  VPS Enterprise  /  Create DNS record",
+    "de": "Meine Dienste  /  VPS Enterprise  /  DNS-Eintrag erstellen"
+  },
+  "Hizmetlerim  /  VPS Enterprise  /  DNS kaydını sil": {
+    "en": "My services  /  VPS Enterprise  /  Delete DNS record",
+    "de": "Meine Dienste  /  VPS Enterprise  /  DNS-Eintrag löschen"
+  },
+  "Hizmetlerim  /  VPS Enterprise  /  Disk genişletme": {
+    "en": "My services  /  VPS Enterprise  /  Disk expansion",
+    "de": "Meine Dienste  /  VPS Enterprise  /  Laufwerkerweiterung"
+  },
+  "Hizmetlerim  /  VPS Enterprise  /  Erişim ve parola": {
+    "en": "My services  /  VPS Enterprise  /  Access and password",
+    "de": "Meine Dienste  /  VPS Enterprise  /  Zugang und Passwort"
+  },
+  "Hizmetlerim  /  VPS Enterprise  /  Geri yükleme onayı": {
+    "en": "My services  /  VPS Enterprise  /  Restore confirmation",
+    "de": "Meine Dienste  /  VPS Enterprise  /  Wiederherstellung bestätigen"
+  },
+  "Hizmetlerim  /  VPS Enterprise  /  Güç işlemi onayı": {
+    "en": "My services  /  VPS Enterprise  /  Power operation confirmation",
+    "de": "Meine Dienste  /  VPS Enterprise  /  Energievorgang bestätigen"
+  },
+  "Hizmetlerim  /  VPS Enterprise  /  IP entegrasyonu": {
+    "en": "My services  /  VPS Enterprise  /  IP integration",
+    "de": "Meine Dienste  /  VPS Enterprise  /  IP-Integration"
+  },
+  "Hizmetlerim  /  VPS Enterprise  /  IPv4 yönetimi": {
+    "en": "My services  /  VPS Enterprise  /  IPv4 management",
+    "de": "Meine Dienste  /  VPS Enterprise  /  IPv4-Verwaltung"
+  },
+  "Hizmetlerim  /  VPS Enterprise  /  IPv6 yönetimi": {
+    "en": "My services  /  VPS Enterprise  /  IPv6 management",
+    "de": "Meine Dienste  /  VPS Enterprise  /  IPv6-Verwaltung"
+  },
+  "Hizmetlerim  /  VPS Enterprise  /  Kaynak ve trafik izleme": {
+    "en": "My services  /  VPS Enterprise  /  Resource and traffic monitoring",
+    "de": "Meine Dienste  /  VPS Enterprise  /  Ressourcen- und Datenverkehrsüberwachung"
+  },
+  "Hizmetlerim  /  VPS Enterprise  /  Kayıt silme onayı": {
+    "en": "My services  /  VPS Enterprise  /  Record deletion confirmation",
+    "de": "Meine Dienste  /  VPS Enterprise  /  Löschen des Eintrags bestätigen"
+  },
+  "Hizmetlerim  /  VPS Enterprise  /  Kurulum ilerleme durumu": {
+    "en": "My services  /  VPS Enterprise  /  Installation progress",
+    "de": "Meine Dienste  /  VPS Enterprise  /  Installationsfortschritt"
+  },
+  "Hizmetlerim  /  VPS Enterprise  /  Sunucuyu başlat": {
+    "en": "My services  /  VPS Enterprise  /  Start server",
+    "de": "Meine Dienste  /  VPS Enterprise  /  Server starten"
+  },
+  "Hizmetlerim  /  VPS Enterprise  /  Sunucuyu durdur": {
+    "en": "My services  /  VPS Enterprise  /  Stop server",
+    "de": "Meine Dienste  /  VPS Enterprise  /  Server stoppen"
+  },
+  "Hizmetlerim  /  VPS Enterprise  /  Sunucuyu yeniden başlat": {
+    "en": "My services  /  VPS Enterprise  /  Restart server",
+    "de": "Meine Dienste  /  VPS Enterprise  /  Server neustarten"
+  },
+  "Hizmetlerim  /  VPS Enterprise  /  WHCSystem": {
+    "en": "My services  /  VPS Enterprise  /  WHCSystem",
+    "de": "Meine Dienste  /  VPS Enterprise  /  WHCSystem"
+  },
+  "Hizmetlerim  /  VPS Enterprise  /  Web konsolu": {
+    "en": "My services  /  VPS Enterprise  /  Web console",
+    "de": "Meine Dienste  /  VPS Enterprise  /  Webkonsole"
+  },
+  "Hizmetlerim  /  VPS Enterprise  /  Yedek / snapshot oluştur": {
+    "en": "My services  /  VPS Enterprise  /  Create backup / snapshot",
+    "de": "Meine Dienste  /  VPS Enterprise  /  Sicherung / Snapshot erstellen"
+  },
+  "Hizmetlerim  /  VPS Enterprise  /  Yedek / snapshot sil": {
+    "en": "My services  /  VPS Enterprise  /  Delete backup / snapshot",
+    "de": "Meine Dienste  /  VPS Enterprise  /  Sicherung / Snapshot löschen"
+  },
+  "Hizmetlerim  /  VPS Enterprise  /  Yedek ve snapshot": {
+    "en": "My services  /  VPS Enterprise  /  Backups and snapshots",
+    "de": "Meine Dienste  /  VPS Enterprise  /  Sicherungen und Snapshots"
+  },
+  "Hizmetlerim  /  VPS Enterprise  /  rDNS kaydı düzenle": {
+    "en": "My services  /  VPS Enterprise  /  Edit rDNS record",
+    "de": "Meine Dienste  /  VPS Enterprise  /  rDNS-Eintrag bearbeiten"
+  },
+  "Hizmetlerim  /  VPS Enterprise  /  rDNS kaydı oluştur": {
+    "en": "My services  /  VPS Enterprise  /  Create rDNS record",
+    "de": "Meine Dienste  /  VPS Enterprise  /  rDNS-Eintrag erstellen"
+  },
+  "Hizmetlerim  /  VPS Enterprise  /  rDNS kayıtları": {
+    "en": "My services  /  VPS Enterprise  /  rDNS records",
+    "de": "Meine Dienste  /  VPS Enterprise  /  rDNS-Einträge"
+  },
+  "Hizmetlerim  /  VPS Enterprise  /  İşlem detayı": {
+    "en": "My services  /  VPS Enterprise  /  Operation details",
+    "de": "Meine Dienste  /  VPS Enterprise  /  Vorgangsdetails"
+  },
+  "Hizmetlerim  /  VPS Enterprise  /  İşlem geçmişi": {
+    "en": "My services  /  VPS Enterprise  /  Operation history",
+    "de": "Meine Dienste  /  VPS Enterprise  /  Vorgangsverlauf"
+  },
+  "Hizmetlerim  /  VPS Enterprise  /  İşletim sistemi kurulumu": {
+    "en": "My services  /  VPS Enterprise  /  Operating system installation",
+    "de": "Meine Dienste  /  VPS Enterprise  /  Betriebssysteminstallation"
+  },
+  "Host / pool": {
+    "en": "Host / pool",
+    "de": "Host / pool"
+  },
+  "Hostname": {
+    "en": "Hostname",
+    "de": "Hostname"
+  },
+  "Hypervisor": {
+    "en": "Hypervisor",
+    "de": "Hypervisor"
+  },
+  "IPv4": {
+    "en": "IPv4",
+    "de": "IPv4"
+  },
+  "IPv6": {
+    "en": "IPv6",
+    "de": "IPv6"
+  },
+  "Link-local": {
+    "en": "Link-local",
+    "de": "Link-local"
+  },
+  "MAC": {
+    "en": "MAC",
+    "de": "MAC"
+  },
+  "MTU": {
+    "en": "MTU",
+    "de": "MTU"
+  },
+  "MX": {
+    "en": "MX",
+    "de": "MX"
+  },
+  "NIC 0": {
+    "en": "NIC 0",
+    "de": "NIC 0"
+  },
+  "NVMe datastore": {
+    "en": "NVMe datastore",
+    "de": "NVMe datastore"
+  },
+  "Nameserver": {
+    "en": "Nameserver",
+    "de": "Nameserver"
+  },
+  "OS": {
+    "en": "OS",
+    "de": "OS"
+  },
+  "PTR": {
+    "en": "PTR",
+    "de": "PTR"
+  },
+  "PTR · 192.0.2.10": {
+    "en": "PTR · 192.0.2.10",
+    "de": "PTR · 192.0.2.10"
+  },
+  "PTR-001 · vm-10482.example.": {
+    "en": "PTR-001 · vm-10482.example.",
+    "de": "PTR-001 · vm-10482.example."
+  },
+  "Provisioning": {
+    "en": "Provisioning",
+    "de": "Provisioning"
+  },
+  "RAM": {
+    "en": "RAM",
+    "de": "RAM"
+  },
+  "REQ-10482": {
+    "en": "REQ-10482",
+    "de": "REQ-10482"
+  },
+  "RX": {
+    "en": "RX",
+    "de": "RX"
+  },
+  "RX / TX": {
+    "en": "RX / TX",
+    "de": "RX / TX"
+  },
+  "SCSI 0:0": {
+    "en": "SCSI 0:0",
+    "de": "SCSI 0:0"
+  },
+  "SLAAC / DHCPv6": {
+    "en": "SLAAC / DHCPv6",
+    "de": "SLAAC / DHCPv6"
+  },
+  "SN-001": {
+    "en": "SN-001",
+    "de": "SN-001"
+  },
+  "SN-001 · 21.11.2026": {
+    "en": "SN-001 · 21.11.2026",
+    "de": "SN-001 · 21.11.2026"
+  },
+  "Snapshot": {
+    "en": "Snapshot",
+    "de": "Snapshot"
+  },
+  "Snapshot · vm-10482": {
+    "en": "Snapshot · vm-10482",
+    "de": "Snapshot · vm-10482"
+  },
+  "Suspend": {
+    "en": "Suspend",
+    "de": "Suspend"
+  },
+  "TASK-125": {
+    "en": "TASK-125",
+    "de": "TASK-125"
+  },
+  "TASK-126": {
+    "en": "TASK-126",
+    "de": "TASK-126"
+  },
+  "TASK-127": {
+    "en": "TASK-127",
+    "de": "TASK-127"
+  },
+  "TASK-128": {
+    "en": "TASK-128",
+    "de": "TASK-128"
+  },
+  "TASK-128 · OS kurulumu": {
+    "en": "TASK-128 · OS installation",
+    "de": "TASK-128 · Betriebssysteminstallation"
+  },
+  "TASK-128 · İşleniyor": {
+    "en": "TASK-128 · Processing",
+    "de": "TASK-128 · Wird verarbeitet"
+  },
+  "TR / EN / DE": {
+    "en": "TR / EN / DE",
+    "de": "TR / EN / DE"
+  },
+  "TR-IST-01": {
+    "en": "TR-IST-01",
+    "de": "TR-IST-01"
+  },
+  "TTL": {
+    "en": "TTL",
+    "de": "TTL"
+  },
+  "TX": {
+    "en": "TX",
+    "de": "TX"
+  },
+  "TXT": {
+    "en": "TXT",
+    "de": "TXT"
+  },
+  "Terminate": {
+    "en": "Terminate",
+    "de": "Terminate"
+  },
+  "Unsuspend": {
+    "en": "Unsuspend",
+    "de": "Unsuspend"
+  },
+  "VLAN": {
+    "en": "VLAN",
+    "de": "VLAN"
+  },
+  "VMware / Proxmox": {
+    "en": "VMware / Proxmox",
+    "de": "VMware / Proxmox"
+  },
+  "VMware vCenter": {
+    "en": "VMware vCenter",
+    "de": "VMware vCenter"
+  },
+  "VMware vCenter  /  TR-IST-01": {
+    "en": "VMware vCenter  /  TR-IST-01",
+    "de": "VMware vCenter  /  TR-IST-01"
+  },
+  "VPS Enterprise": {
+    "en": "VPS Enterprise",
+    "de": "VPS Enterprise"
+  },
+  "WHC Production": {
+    "en": "WHC Production",
+    "de": "WHC Production"
+  },
+  "WHC VM ID": {
+    "en": "WHC VM ID",
+    "de": "WHC VM ID"
+  },
+  "WHCSystem · WHMCS sunucu modülü · Örnek veriler": {
+    "en": "WHCSystem · WHMCS server module · Sample data",
+    "de": "WHCSystem · WHMCS Servermodul · Beispieldaten"
+  },
+  "WHCSystem · WISECP sunucu modülü · Örnek veriler": {
+    "en": "WHCSystem · WISECP server module · Sample data",
+    "de": "WHCSystem · WISECP Servermodul · Beispieldaten"
+  },
+  "WHMCS Admin  /  Hizmet işlemleri": {
+    "en": "WHMCS Admin  /  Service operations",
+    "de": "WHMCS Admin  /  Dienstvorgänge"
+  },
+  "WHMCS Admin  /  Sunucu yapılandırması": {
+    "en": "WHMCS Admin  /  Server configuration",
+    "de": "WHMCS Admin  /  Serverkonfiguration"
+  },
+  "WHMCS Admin  /  Ürün eşleştirme": {
+    "en": "WHMCS Admin  /  Product mapping",
+    "de": "WHMCS Admin  /  Produktzuordnung"
+  },
+  "WHMCS · Hizmet #10482 · vm-10482.example": {
+    "en": "WHMCS · Service #10482 · vm-10482.example",
+    "de": "WHMCS · Dienst #10482 · vm-10482.example"
+  },
+  "WISECP Admin  /  Hizmet işlemleri": {
+    "en": "WISECP Admin  /  Service operations",
+    "de": "WISECP Admin  /  Dienstvorgänge"
+  },
+  "WISECP Admin  /  Sunucu yapılandırması": {
+    "en": "WISECP Admin  /  Server configuration",
+    "de": "WISECP Admin  /  Serverkonfiguration"
+  },
+  "WISECP Admin  /  Ürün eşleştirme": {
+    "en": "WISECP Admin  /  Product mapping",
+    "de": "WISECP Admin  /  Produktzuordnung"
+  },
+  "WISECP · Hizmet #10482 · vm-10482.example": {
+    "en": "WISECP · Service #10482 · vm-10482.example",
+    "de": "WISECP · Dienst #10482 · vm-10482.example"
+  },
+  "Windows / Linux / BSD": {
+    "en": "Windows / Linux / BSD",
+    "de": "Windows / Linux / BSD"
+  },
+  "Windows Server 2022": {
+    "en": "Windows Server 2022",
+    "de": "Windows Server 2022"
+  },
+  "administrator": {
+    "en": "administrator",
+    "de": "administrator"
+  },
+  "example.net": {
+    "en": "example.net",
+    "de": "example.net"
+  },
+  "example.net.": {
+    "en": "example.net.",
+    "de": "example.net."
+  },
+  "fe80::/64": {
+    "en": "fe80::/64",
+    "de": "fe80::/64"
+  },
+  "host.example.": {
+    "en": "host.example.",
+    "de": "host.example."
+  },
+  "https://api.example.net": {
+    "en": "https://api.example.net",
+    "de": "https://api.example.net"
+  },
+  "ns1.example.net / ns2.example.net": {
+    "en": "ns1.example.net / ns2.example.net",
+    "de": "ns1.example.net / ns2.example.net"
+  },
+  "office-key": {
+    "en": "office-key",
+    "de": "office-key"
+  },
+  "pre-update-2026-11-22": {
+    "en": "pre-update-2026-11-22",
+    "de": "pre-update-2026-11-22"
+  },
+  "server.example.": {
+    "en": "server.example.",
+    "de": "server.example."
+  },
+  "ssh-ed25519 AAAA…": {
+    "en": "ssh-ed25519 AAAA…",
+    "de": "ssh-ed25519 AAAA…"
+  },
+  "task-000128": {
+    "en": "task-000128",
+    "de": "task-000128"
+  },
+  "trace-10482": {
+    "en": "trace-10482",
+    "de": "trace-10482"
+  },
+  "v=spf1 -all": {
+    "en": "v=spf1 -all",
+    "de": "v=spf1 -all"
+  },
+  "vm-10482": {
+    "en": "vm-10482",
+    "de": "vm-10482"
+  },
+  "vm-10482.example.": {
+    "en": "vm-10482.example.",
+    "de": "vm-10482.example."
+  },
+  "www": {
+    "en": "www",
+    "de": "www"
+  },
+  "x86_64": {
+    "en": "x86_64",
+    "de": "x86_64"
+  },
+  "—": {
+    "en": "—",
+    "de": "—"
+  },
+  "••••••••••••": {
+    "en": "••••••••••••",
+    "de": "••••••••••••"
+  }
+}

@@ -1,0 +1,1 @@
+{$whcPanelHtml nofilter}
